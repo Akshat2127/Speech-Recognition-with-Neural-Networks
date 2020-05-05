@@ -149,7 +149,7 @@ jupyter notebook vui_notebook.ipynb
 ![select aind-vui kernel][image2]
 
 
-## Suggestions to take this Project abpve and beyond!
+## Suggestions to take this Project above and beyond!
 
 #### (1) Add a Language Model to the Decoder
 
